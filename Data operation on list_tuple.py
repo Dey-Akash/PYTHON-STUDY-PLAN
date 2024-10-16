@@ -29,3 +29,14 @@ print(grade.count("C"))
 grade = ["C","D","A","A","B","B","A"]
 grade.sort()
 print(grade) 
+
+# TUPLE INDEX METHOD (RETURN INDEX OF SELECTIVE ELEMENT)
+tup = (1,2,3,4,5,6,7,8,9)
+x = tup.index(3)
+print(x)
+
+# TUPLE COUNT METHOD (COUNT TOTAL OCCURRENCE OF DUPLICATE VALUE)
+tup = (1,2,3,4,4,5,6,7,4,5,8,9,6,3,2,1)
+x = tup.count (3)
+print(x)
+
