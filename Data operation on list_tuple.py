@@ -1,7 +1,3 @@
-t = 'a','b'
-t2 = ('a','b')
-print(t==t2)
-print(type(t))
 
 # WAP TO ASK THE USER TO ENTER NAMES OF THEIR 3 FAVOURITR MOVIES & STORE THEM IN A LIST:
 movies=[]
